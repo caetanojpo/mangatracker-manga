@@ -3,7 +3,7 @@
 The **MangaTracker** project was born out of a problem I faced in tracking my own manga readings. At first, I used a **Google Sheet** to organize and monitor my progress across different manga series. While functional, it quickly became clear that this approach was not practical or scalable. I needed a more efficient and intuitive solution to manage my manga collection, track my progress, and gain insights into my reading habits. This led to the creation of the **MangaTracker** platform.
 
 This is a glimpse of how I was tracking my reading:
-![image](https://github.com/user-attachments/assets/34f04997-c5c0-4a58-8173-58823dd068c1)
+![image](https://github.com/user-attachments/assets/68775e97-a3ed-429f-afec-a8d1c81a09ba)
 
 The goal of MangaTracker is to provide a comprehensive, easy-to-use platform for manga enthusiasts who want to track their ongoing series, discover new manga, and get personalized recommendations based on their reading history. The platform integrates several microservices, each focused on different aspects of the user journey: user management, manga data handling, recommendations, and notifications.
 
